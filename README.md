@@ -1,55 +1,58 @@
-# 👋 Hi there, I'm Sudharshan V
+# 👋 Hi, I'm Sudharshan V
 
-🎓 MSc Data Science | Ex-Intern @ BGSW  
-💻 Passionate about AI, Automation, and Building Things That Work
+**AI/ML Engineer** — building production LLM systems, multi-agent workflows, and real-time voice AI.
 
----
-
-## 🚀 About Me
-
-I'm a data science enthusiast and aspiring AI engineer exploring the intersection of **Generative AI**, **Agentic AI**, and real-world automation. I enjoy combining LLMs with modern development and deployment stacks to create intelligent, scalable, and production-ready solutions.
+🏢 Senior Consultant, AI & Data Science @ Mantras2Transform
+🎯 Ex — AI/ML Student Trainee @ Bosch Global Software Technologies (BGSW)
+🎓 Integrated MSc, Data Science — Amrita Vishwa Vidyapeetham
+📍 India
 
 ---
 
-## 🧠 Current Focus
+## 🚀 What I work on
 
-- ⚡ Workflow automation with **n8n**  
-- 🐳 Containerization & orchestration with **Docker** & **Kubernetes**  
-- ☁️ Learning cloud platforms: **AWS**, **Azure**, and **GCP**  
-- 🤖 Experimenting with **Agentic AI** and **LLM integrations**  
-- 💬 Exploring **LangChain**, **Hugging Face**, and lightweight AI tooling like **Ollama**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Technical Skills
-
-**Machine Learning & AI**  
-Python · TensorFlow · Scikit-learn · OpenCV · CNN · LSTM · Computer Vision · Deep Learning · NLP · LLMs · Ollama · LangChain · HuggingFace  
-
-**Data Science**  
-Pandas · NumPy · Data Preprocessing · Feature Engineering  
-
-**Data Engineering & Visualization**  
-MongoDB · MySQL · Elasticsearch · Power BI · ETL Pipelines  
-
-**Development & Deployment**  
-Docker · Git · n8n Automation · Kubernetes · Azure OpenAI · CI/CD  
+- **Voice-based Agentic AI** — real-time ASR + LLM orchestration + rule engines for enterprise financial workflows, deployed on GCP.
+- **Multi-agent pipelines** on LangGraph, with critic / fact-check loops that verify claims against source data before publishing.
+- **Model Context Protocol (MCP)** — turning agent tools into portable, Claude-Desktop-callable services.
+- **RAG & retrieval systems**, function calling, structured output, and prompt engineering at production scale.
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured project
 
-![Sudharshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudharshan-V&show_icons=true&theme=radical)
+### [F1Brief](https://github.com/Sudharshan0802/F1Brief) — Multi-Agent Formula 1 Weekend Intelligence
 
----
+LangGraph + MCP + Groq. Four evidence-backed brief modes across a race weekend (Preview / Practice / Quali / Debrief), fanning out to five data sources — Jolpica-F1, OpenF1, FastF1 telemetry, RSS, Open-Meteo — with a critic node that verifies quantitative claims against raw timing data before publishing.
 
-## 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sudharshan-v/)
-- 🧠 Always open to collaborations in AI, Automation, and Cloud-based projects
+`LangGraph` · `MCP (FastMCP)` · `Groq` · `FastF1` · `Streamlit` · `SQLite`
 
 ---
 
-_“Code is the closest thing we have to magic.”_
+## 🛠️ Tech stack
+
+**Languages** — Python, SQL, Bash, TypeScript
+
+**GenAI & Agents** — LangGraph · LangChain · LlamaIndex · Model Context Protocol (MCP) · FastMCP · Vertex AI (Gemini) · Azure OpenAI · OpenAI API · Groq · Ollama · Hugging Face · Prompt Engineering · RAG · Function / Tool Calling
+
+**ML & Speech** — TensorFlow · PyTorch · Scikit-learn · CNN · LSTM · Transformers · Computer Vision · Speech Processing (ASR / TTS) · Federated Learning
+
+**Backend & Streaming** — FastAPI · Flask · Streamlit · WebSockets · Async Python · REST APIs
+
+**Cloud & DevOps** — Docker · GCP (Vertex AI, Cloud Run) · Azure · Kubernetes (basics) · Git · GitHub Actions · CI/CD
+
+**Databases & Vector Stores** — PostgreSQL · MySQL · MongoDB · SQLite · Elasticsearch · FAISS · Chroma
+
+---
+
+## 📊 GitHub
+
+![Sudharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudharshan0802&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshan0802&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sudharshanpillai)
+- 📧 sudharshanpillai82@gmail.com
+- 🐙 Open to collaborations in Agentic AI, LLM systems, and real-time voice AI.
